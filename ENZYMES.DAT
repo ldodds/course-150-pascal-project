@@ -1,0 +1,56 @@
+EcoRI
+Escherichia coli
+gaattc
+1
+EcoRII
+Escherichia coli
+gcctggc
+1
+HindIII
+Hemophilus influenzae
+aagctt
+1
+HaeIII
+Hemophilus aegyptius
+ggcc
+2
+HpaII
+Hemophilus parainfluenzae
+ccgg
+1
+PstI
+Providencia stuartii
+ctgcag
+5
+SmaI
+Serratia marcescens
+cccggg
+3
+BamHI
+bacillus amyloliquefaciens
+ggattcc
+1
+BgIII
+Bacillus globiggi
+agatct
+1
+HhaI
+hemophilus haemolytes
+gcgc
+3
+HpaI
+hemophilus parainfluenzae
+gttaac
+3
+KpnI
+Klebsiella pneumoniae
+ggtacc
+5
+XhoI
+Xanthomonas holcicolor
+ctcgag
+1
+AluI
+Arthrobacter luteus
+agct
+2

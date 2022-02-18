@@ -1,0 +1,24 @@
+********************RESTRICTION ENZYME EXPERIMENT**************************
+
+                      ----INSTRUCTIONS----
+
+   The restriction enzyme experiment feature in this program allows you ,
+(the user) to subject DNA sequences to attack by restriction enzymes.The
+program contains a list of 14 different enzymes , including the name of the
+organism from which it is derived.
+
+   On calling up the option from the menu (option 5 ), the computer will
+display the list of enzymes and ask which is your choice for the restriction
+experiment.Once chosen the computer will search through the DNA sequence
+currently in memory (input using option 2 on the main menu) and if it finds
+a part of the sequence which corresponds to the recognition site for the
+chosen enzyme then it will 'cut' the DNA strand appropiately , generating
+one or more fragments.
+N.B. the DNA strand itself , if it contains no recognition sites,is considered
+     to be a fragment.
+
+
+
+
+Press any key to return to the main menu.......................
+

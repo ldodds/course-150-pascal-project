@@ -1,0 +1,21 @@
+*********************DNA MUTATION EXPERIMENTS***********************************                       ---INSTRUCTIONS---
+
+The DNA mutation option in this program allows the user to subject a DNA
+strand to the effects of an unspecified mutagen.The effects of the mutagen
+are left up to the choice of the user :-
+
+  1 : DELETION       of a single base in the strand ;
+  2 : DUPLICATION    of a single base in the strand ;
+  3 : TRANSLOCATION  of a 3 base sequence within the strand ;
+  4 : INVERSION     of a 3 base sequence in the strand ;
+
+
+The mutant strand generated  can then be manipulated in a similiar way to the
+DNA strand already input (transcription , etc ).
+
+N.B. When the DNA strand is mutated then if there is already a mutant strand
+     in memory the this will be overwritten .
+
+Press any key to return to the main menu .......
+
+

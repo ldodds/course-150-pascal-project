@@ -1,0 +1,24 @@
+*********************TRANSCRIPTION AND TRANSLATION*************************
+
+                        ---INSTRUCTIONS----
+
+
+   Within the cell , when a gene is activated, the DNA is uncoiled and 
+copied ; forming a messenger RNA product which then leaves the nucleus and
+passes into the cell : this is transcription.This program simulates this
+process with a relatively simple procedure , which involves substituting
+all the Thymine bases in the DNA strand in memory into Uracil.
+
+   Once the mRNA has left the nucleus , it travels to the ribosomes where
+translation occurs.This is the process of forming a protein product from
+the information encoded into the mRNA strand.Each triplet of bases (a codon
+) corresponds to a single amino acid.The computer is able to simulate this
+and produce the polypeptide from the mRNA previously transcibed.
+
+N.B the polypepdite chain will be given in the form of the standard 3 letter
+    codes for each amino acid. e.g. Phe = Phenyalanine ,
+                                    Tyr = Tyrosine , etc..
+
+
+
+Press any key to return to the main menu...................
